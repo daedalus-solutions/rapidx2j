@@ -1,5 +1,5 @@
 {
-  "name": "rapidx2j",
+  "name": "@daedalus/rapidx2j",
   "version": "0.5.0",
   "description": "Node.js XML to JSON using rapidXML",
   "main": "index.js",
